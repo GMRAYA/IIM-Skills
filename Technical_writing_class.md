@@ -6,6 +6,7 @@
 - Understanding your audience
 - Writing for the web
 - Creating effective user manuals
+- hhhhh
 
 ## Course Assignments
 
