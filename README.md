@@ -1,7 +1,7 @@
 # IIM-Skills
 ## USER MANUAL- AIRPODS (2ND GENERATION)
 ### Introduction
-You may listen to your favorite audio on your **iPhone, iPad, iPad touch, Apple Watch, Mac, or Apple TV**  in seconds with AirPods (2nd generation). You can also use your AirPods to make and answer phone calls and FaceTime calls with compatible devices. 
+You may listen to your favorite audio on your **iPhone, iPad, iPad touch, Apple Watch, Mac, or Apple TV**  in seconds with AirPods (2nd generation). You can also use your ==AirPods== to make and answer phone calls and FaceTime calls with compatible devices. 
 *The following are available inside the box:* 
 - Airpods 
 - Charging Case 
@@ -17,7 +17,7 @@ You may listen to your favorite audio on your **iPhone, iPad, iPad touch, Apple 
 
 
 > Size and Weight (Each):
-=Height: 40.5 mm (1.59 inches)=
+Height: 40.5 mm (1.59 inches)
 Width: 16.5 mm (0.65 inches)
 Depth: 18.0 mm (0.71 inches)
 Weight: 4 grams (0.14 ounces)
