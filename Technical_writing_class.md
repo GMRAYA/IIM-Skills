@@ -64,4 +64,4 @@ Here's a sentence with a footnote. [^1]
 Include an emoji to add some fun and personality to your writing! 😄
 
 
-![Heading]<img width="20" alt="icon2" src="https://github.com/GMRAYA/IIM-Skills/assets/104711446/3323b245-14bd-45d4-afd5-6233ab06289f">
+![Heading](img width="20" alt="icon2" src="https://github.com/GMRAYA/IIM-Skills/assets/104711446/3323b245-14bd-45d4-afd5-6233ab06289f")
