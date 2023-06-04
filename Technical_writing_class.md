@@ -1,4 +1,10 @@
+<!--TOC -->
+* [Heading 1](#heading-1)
+  * [subheading](#subheading-11) 
+
+
 # Technical Writing Class
+
 
 ## Class Syllabus
 
