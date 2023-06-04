@@ -50,7 +50,8 @@ Use a horizontal line to separate different sections of your writing.
 
 ### Footnote
 
-Use a footnote to provide additional information or to give credit to a source.^[This is a sample footnote.]
+Use a footnote to provide additional information or to give credit to a source.^[1]
+[^1]: This is a footnote content
 
 ### Emoji
 
