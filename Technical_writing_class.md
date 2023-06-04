@@ -44,7 +44,7 @@ Use **bold** to emphasize important words, *italics* to indicate emphasis or to 
 
 ### Horizontal Line
 
-Use a horizontal == line == to separate different sections of your writing.
+Use a horizontal line to separate different sections of your writing.
 
 ---
 
@@ -53,6 +53,11 @@ Use a horizontal == line == to separate different sections of your writing.
 Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
+
+### Task List 
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 
 ### Emoji
 
