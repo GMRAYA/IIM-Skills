@@ -44,7 +44,7 @@ Use **bold** to emphasize important words, *italics* to indicate emphasis or to 
 
 ### Horizontal Line
 
-Use a horizontal line to separate different sections of your writing.
+Use a horizontal ==line== to separate different sections of your writing.
 
 ---
 
